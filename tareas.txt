@@ -1,0 +1,10 @@
+Tareas del proyecto Gestor de Tareas
+
+- Crear estructura del proyecto 
+- Implementar función para agregar tareas 
+- Implementar función para listar tareas 
+- Guardar tareas en archivo 
+- Leer tareas desde archivo al iniciar 
+- Crear archivo README.md 
+- Crear archivo requirements.txt 
+- Subir proyecto a GitHub 
